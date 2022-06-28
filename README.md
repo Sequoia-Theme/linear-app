@@ -24,6 +24,11 @@ Monochrome:
 
 
 ## Screenshots
+### Moonlight
+![Moonlight](https://github.com/Serendipity-Theme/linear-app/blob/main/linearMoonlight.png?raw=true)
+
+### Monochrome
+![Monochrome](https://github.com/Serendipity-Theme/linear-app/blob/main/linearMonochrome.png?raw=true)
 
 
 Sequoia Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
