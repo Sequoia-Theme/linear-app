@@ -1,7 +1,7 @@
 
 ![Midnight](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
-# Serendipity for Linear App
-Serendipity theme adapted to Linear App https://linear.app/
+# Sequoia for Linear App
+Sequoia theme adapted to Linear App https://linear.app/
 
 
 To change your theme on linear app do like this:
